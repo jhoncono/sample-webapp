@@ -10,6 +10,7 @@ def index():
     count = int(f.read())
     f.close()
 
+
     # Increment the count
     count += 2
 
